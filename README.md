@@ -7,13 +7,13 @@ How to Compile and Run the Program:
     Clone the Repository:
         Open your terminal and clone the repository using git:
 
-    git clone https://github.com/Chea-Ilong/IDT100022_Chea_Ilong_CPU_Scheduling.git
+    git clone https://github.com/Bunheang360/IDT100048_Chheng_Bunheang_CPU_Scheduling.git
 
 Navigate to the Project Directory:
 
     Change to the project directory:
 
-    cd IDT100022_Chea_Ilong_CPU_Scheduling
+    cd IDT100048_Chheng_Bunheang_CPU_Scheduling
 
 Compile the Java Program:
 
